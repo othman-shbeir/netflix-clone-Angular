@@ -125,12 +125,12 @@ The layout is optimized for **desktop, tablet, and mobile devices**, ensuring a 
 ## 👨‍💻 Author
 
 **Othman Shbeir**
-📧 [Email](mailto:uthmanshbeir@gmail.com)
-🌐 [Portfolio](https://othman-shbeir.github.io)
-🔗 [LinkedIn](https://www.linkedin.com/in/othmanshbeir)
+- 📧 [Email](mailto:uthmanshbeir@gmail.com)
+- 🌐 [Portfolio](https://othman-shbeir.github.io)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/othmanshbeir)
 
 ---
 
 ## 📝 License
 
-This project is licensed under the **MIT License** — feel free to use and modify it for learning or development purposes.
+This project is licensed under the **MIT License**. Feel free to use and modify it for learning or development purposes.
